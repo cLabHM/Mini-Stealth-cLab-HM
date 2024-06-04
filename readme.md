@@ -1,3 +1,13 @@
+# Mini Stealth CLab HM Edition
+This is the version of the Mini Stealth as is used by the cLab. The current config is:
+- Mini Sherpa + Common Parts
+- FYSTEC Umbilical PCB
+- 3010 Fans as deliverd by FYSTEC in their Kit
+
+Most of this repo is still the amazing design by atrushing, but some changes have been made and some extras have been added!
+
+This is a submodule of the [CLab Voron 0 Git](https://github.com/cLabHM/Voron-0-cLab-HM) which contains the Rest of the Files for a complete Voron 0 with the FYSTEC Voron V0.2 R1 V1
+# Original Readme
 ## Mini Stealth - A Scaled Down Stealthburner
 
 ![Size Comparison](/Mini_Stealth_Stealthburner_Size_Comparison.png)
